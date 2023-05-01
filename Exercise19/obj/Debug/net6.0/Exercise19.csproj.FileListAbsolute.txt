@@ -1,0 +1,15 @@
+D:\Репозитории\HOMEWWORK\Exercise19\obj\Debug\net6.0\Exercise19.csproj.AssemblyReference.cache
+D:\Репозитории\HOMEWWORK\Exercise19\obj\Debug\net6.0\Exercise19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Репозитории\HOMEWWORK\Exercise19\obj\Debug\net6.0\Exercise19.AssemblyInfoInputs.cache
+D:\Репозитории\HOMEWWORK\Exercise19\obj\Debug\net6.0\Exercise19.AssemblyInfo.cs
+D:\Репозитории\HOMEWWORK\Exercise19\obj\Debug\net6.0\Exercise19.csproj.CoreCompileInputs.cache
+D:\Репозитории\HOMEWWORK\Exercise19\bin\Debug\net6.0\Exercise19.exe
+D:\Репозитории\HOMEWWORK\Exercise19\bin\Debug\net6.0\Exercise19.deps.json
+D:\Репозитории\HOMEWWORK\Exercise19\bin\Debug\net6.0\Exercise19.runtimeconfig.json
+D:\Репозитории\HOMEWWORK\Exercise19\bin\Debug\net6.0\Exercise19.dll
+D:\Репозитории\HOMEWWORK\Exercise19\bin\Debug\net6.0\Exercise19.pdb
+D:\Репозитории\HOMEWWORK\Exercise19\obj\Debug\net6.0\Exercise19.dll
+D:\Репозитории\HOMEWWORK\Exercise19\obj\Debug\net6.0\refint\Exercise19.dll
+D:\Репозитории\HOMEWWORK\Exercise19\obj\Debug\net6.0\Exercise19.pdb
+D:\Репозитории\HOMEWWORK\Exercise19\obj\Debug\net6.0\Exercise19.genruntimeconfig.cache
+D:\Репозитории\HOMEWWORK\Exercise19\obj\Debug\net6.0\ref\Exercise19.dll

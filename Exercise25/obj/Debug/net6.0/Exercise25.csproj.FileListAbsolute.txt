@@ -1,0 +1,15 @@
+D:\Репозитории\HOMEWWORK\Exercise25\bin\Debug\net6.0\Exercise25.exe
+D:\Репозитории\HOMEWWORK\Exercise25\bin\Debug\net6.0\Exercise25.deps.json
+D:\Репозитории\HOMEWWORK\Exercise25\bin\Debug\net6.0\Exercise25.runtimeconfig.json
+D:\Репозитории\HOMEWWORK\Exercise25\bin\Debug\net6.0\Exercise25.dll
+D:\Репозитории\HOMEWWORK\Exercise25\bin\Debug\net6.0\Exercise25.pdb
+D:\Репозитории\HOMEWWORK\Exercise25\obj\Debug\net6.0\Exercise25.csproj.AssemblyReference.cache
+D:\Репозитории\HOMEWWORK\Exercise25\obj\Debug\net6.0\Exercise25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Репозитории\HOMEWWORK\Exercise25\obj\Debug\net6.0\Exercise25.AssemblyInfoInputs.cache
+D:\Репозитории\HOMEWWORK\Exercise25\obj\Debug\net6.0\Exercise25.AssemblyInfo.cs
+D:\Репозитории\HOMEWWORK\Exercise25\obj\Debug\net6.0\Exercise25.csproj.CoreCompileInputs.cache
+D:\Репозитории\HOMEWWORK\Exercise25\obj\Debug\net6.0\Exercise25.dll
+D:\Репозитории\HOMEWWORK\Exercise25\obj\Debug\net6.0\refint\Exercise25.dll
+D:\Репозитории\HOMEWWORK\Exercise25\obj\Debug\net6.0\Exercise25.pdb
+D:\Репозитории\HOMEWWORK\Exercise25\obj\Debug\net6.0\Exercise25.genruntimeconfig.cache
+D:\Репозитории\HOMEWWORK\Exercise25\obj\Debug\net6.0\ref\Exercise25.dll

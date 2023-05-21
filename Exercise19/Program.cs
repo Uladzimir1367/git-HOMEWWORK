@@ -13,19 +13,19 @@ void FindNumber(int N)
       Console.WriteLine("Это не пятизначное число ");
       }
 
-   if ((N >= 10000) && (N <= 99999))
-   {
-      int a = N/10000 % 10;
-      int b = N % 10;
-      if (a == b)
+      if ((N >= 10000) && (N <= 99999))
       {
-         int c = N/1000 % 10;
-         int d = N/10 % 10;
-         if (c == d)
-         {
-            Console.WriteLine("Это число полиндром");
-         } 
-      }
+         int a = N/10000 % 10;
+         int b = N % 10;
+         if (a == b)
+            {
+            int c = N/1000 % 10;
+            int d = N/10 % 10;
+            if (c == d)
+               {
+                  Console.WriteLine("Это число полиндром");
+               } 
+            }
       else
       {
          Console.WriteLine("Это число не полиндром");

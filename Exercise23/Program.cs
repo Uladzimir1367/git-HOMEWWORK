@@ -21,6 +21,6 @@ void NumCube(int n)
       {
          cube = Math.Abs(Carrent*Carrent*Carrent);
          Carrent++;
-         Console.WriteLine("Квадраты чисел = " + cube);
+         Console.WriteLine("Кубы чисел = " + cube);
       }
 }

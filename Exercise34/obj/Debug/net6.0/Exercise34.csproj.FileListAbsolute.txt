@@ -1,0 +1,15 @@
+D:\Репозитории\HOMEWWORK\Exercise34\obj\Debug\net6.0\Exercise34.csproj.AssemblyReference.cache
+D:\Репозитории\HOMEWWORK\Exercise34\obj\Debug\net6.0\Exercise34.GeneratedMSBuildEditorConfig.editorconfig
+D:\Репозитории\HOMEWWORK\Exercise34\obj\Debug\net6.0\Exercise34.AssemblyInfoInputs.cache
+D:\Репозитории\HOMEWWORK\Exercise34\obj\Debug\net6.0\Exercise34.AssemblyInfo.cs
+D:\Репозитории\HOMEWWORK\Exercise34\obj\Debug\net6.0\Exercise34.csproj.CoreCompileInputs.cache
+D:\Репозитории\HOMEWWORK\Exercise34\bin\Debug\net6.0\Exercise34.exe
+D:\Репозитории\HOMEWWORK\Exercise34\bin\Debug\net6.0\Exercise34.deps.json
+D:\Репозитории\HOMEWWORK\Exercise34\bin\Debug\net6.0\Exercise34.runtimeconfig.json
+D:\Репозитории\HOMEWWORK\Exercise34\bin\Debug\net6.0\Exercise34.dll
+D:\Репозитории\HOMEWWORK\Exercise34\bin\Debug\net6.0\Exercise34.pdb
+D:\Репозитории\HOMEWWORK\Exercise34\obj\Debug\net6.0\Exercise34.dll
+D:\Репозитории\HOMEWWORK\Exercise34\obj\Debug\net6.0\refint\Exercise34.dll
+D:\Репозитории\HOMEWWORK\Exercise34\obj\Debug\net6.0\Exercise34.pdb
+D:\Репозитории\HOMEWWORK\Exercise34\obj\Debug\net6.0\Exercise34.genruntimeconfig.cache
+D:\Репозитории\HOMEWWORK\Exercise34\obj\Debug\net6.0\ref\Exercise34.dll

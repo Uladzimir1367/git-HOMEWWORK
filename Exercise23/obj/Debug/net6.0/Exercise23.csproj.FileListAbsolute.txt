@@ -1,0 +1,15 @@
+D:\Репозитории\HOMEWWORK\Exercise23\bin\Debug\net6.0\Exercise23.exe
+D:\Репозитории\HOMEWWORK\Exercise23\bin\Debug\net6.0\Exercise23.deps.json
+D:\Репозитории\HOMEWWORK\Exercise23\bin\Debug\net6.0\Exercise23.runtimeconfig.json
+D:\Репозитории\HOMEWWORK\Exercise23\bin\Debug\net6.0\Exercise23.dll
+D:\Репозитории\HOMEWWORK\Exercise23\bin\Debug\net6.0\Exercise23.pdb
+D:\Репозитории\HOMEWWORK\Exercise23\obj\Debug\net6.0\Exercise23.csproj.AssemblyReference.cache
+D:\Репозитории\HOMEWWORK\Exercise23\obj\Debug\net6.0\Exercise23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Репозитории\HOMEWWORK\Exercise23\obj\Debug\net6.0\Exercise23.AssemblyInfoInputs.cache
+D:\Репозитории\HOMEWWORK\Exercise23\obj\Debug\net6.0\Exercise23.AssemblyInfo.cs
+D:\Репозитории\HOMEWWORK\Exercise23\obj\Debug\net6.0\Exercise23.csproj.CoreCompileInputs.cache
+D:\Репозитории\HOMEWWORK\Exercise23\obj\Debug\net6.0\Exercise23.dll
+D:\Репозитории\HOMEWWORK\Exercise23\obj\Debug\net6.0\refint\Exercise23.dll
+D:\Репозитории\HOMEWWORK\Exercise23\obj\Debug\net6.0\Exercise23.pdb
+D:\Репозитории\HOMEWWORK\Exercise23\obj\Debug\net6.0\Exercise23.genruntimeconfig.cache
+D:\Репозитории\HOMEWWORK\Exercise23\obj\Debug\net6.0\ref\Exercise23.dll

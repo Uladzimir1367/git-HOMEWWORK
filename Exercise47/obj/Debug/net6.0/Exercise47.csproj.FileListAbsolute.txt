@@ -1,0 +1,15 @@
+D:\Репозитории\HOMEWWORK\Exercise47\bin\Debug\net6.0\Exercise47.exe
+D:\Репозитории\HOMEWWORK\Exercise47\bin\Debug\net6.0\Exercise47.deps.json
+D:\Репозитории\HOMEWWORK\Exercise47\bin\Debug\net6.0\Exercise47.runtimeconfig.json
+D:\Репозитории\HOMEWWORK\Exercise47\bin\Debug\net6.0\Exercise47.dll
+D:\Репозитории\HOMEWWORK\Exercise47\bin\Debug\net6.0\Exercise47.pdb
+D:\Репозитории\HOMEWWORK\Exercise47\obj\Debug\net6.0\Exercise47.csproj.AssemblyReference.cache
+D:\Репозитории\HOMEWWORK\Exercise47\obj\Debug\net6.0\Exercise47.GeneratedMSBuildEditorConfig.editorconfig
+D:\Репозитории\HOMEWWORK\Exercise47\obj\Debug\net6.0\Exercise47.AssemblyInfoInputs.cache
+D:\Репозитории\HOMEWWORK\Exercise47\obj\Debug\net6.0\Exercise47.AssemblyInfo.cs
+D:\Репозитории\HOMEWWORK\Exercise47\obj\Debug\net6.0\Exercise47.csproj.CoreCompileInputs.cache
+D:\Репозитории\HOMEWWORK\Exercise47\obj\Debug\net6.0\Exercise47.dll
+D:\Репозитории\HOMEWWORK\Exercise47\obj\Debug\net6.0\refint\Exercise47.dll
+D:\Репозитории\HOMEWWORK\Exercise47\obj\Debug\net6.0\Exercise47.pdb
+D:\Репозитории\HOMEWWORK\Exercise47\obj\Debug\net6.0\Exercise47.genruntimeconfig.cache
+D:\Репозитории\HOMEWWORK\Exercise47\obj\Debug\net6.0\ref\Exercise47.dll

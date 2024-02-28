@@ -1,0 +1,15 @@
+D:\Репозитории\HOMEWWORK\Exercise43\obj\Debug\net6.0\Exercise43.csproj.AssemblyReference.cache
+D:\Репозитории\HOMEWWORK\Exercise43\obj\Debug\net6.0\Exercise43.GeneratedMSBuildEditorConfig.editorconfig
+D:\Репозитории\HOMEWWORK\Exercise43\obj\Debug\net6.0\Exercise43.AssemblyInfoInputs.cache
+D:\Репозитории\HOMEWWORK\Exercise43\obj\Debug\net6.0\Exercise43.AssemblyInfo.cs
+D:\Репозитории\HOMEWWORK\Exercise43\obj\Debug\net6.0\Exercise43.csproj.CoreCompileInputs.cache
+D:\Репозитории\HOMEWWORK\Exercise43\bin\Debug\net6.0\Exercise43.exe
+D:\Репозитории\HOMEWWORK\Exercise43\bin\Debug\net6.0\Exercise43.deps.json
+D:\Репозитории\HOMEWWORK\Exercise43\bin\Debug\net6.0\Exercise43.runtimeconfig.json
+D:\Репозитории\HOMEWWORK\Exercise43\bin\Debug\net6.0\Exercise43.dll
+D:\Репозитории\HOMEWWORK\Exercise43\bin\Debug\net6.0\Exercise43.pdb
+D:\Репозитории\HOMEWWORK\Exercise43\obj\Debug\net6.0\Exercise43.dll
+D:\Репозитории\HOMEWWORK\Exercise43\obj\Debug\net6.0\refint\Exercise43.dll
+D:\Репозитории\HOMEWWORK\Exercise43\obj\Debug\net6.0\Exercise43.pdb
+D:\Репозитории\HOMEWWORK\Exercise43\obj\Debug\net6.0\Exercise43.genruntimeconfig.cache
+D:\Репозитории\HOMEWWORK\Exercise43\obj\Debug\net6.0\ref\Exercise43.dll

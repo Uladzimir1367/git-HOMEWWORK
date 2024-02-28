@@ -1,0 +1,15 @@
+D:\Репозитории\HOMEWWORK\Exercise38\obj\Debug\net6.0\Exercise38.csproj.AssemblyReference.cache
+D:\Репозитории\HOMEWWORK\Exercise38\obj\Debug\net6.0\Exercise38.GeneratedMSBuildEditorConfig.editorconfig
+D:\Репозитории\HOMEWWORK\Exercise38\obj\Debug\net6.0\Exercise38.AssemblyInfoInputs.cache
+D:\Репозитории\HOMEWWORK\Exercise38\obj\Debug\net6.0\Exercise38.AssemblyInfo.cs
+D:\Репозитории\HOMEWWORK\Exercise38\obj\Debug\net6.0\Exercise38.csproj.CoreCompileInputs.cache
+D:\Репозитории\HOMEWWORK\Exercise38\bin\Debug\net6.0\Exercise38.exe
+D:\Репозитории\HOMEWWORK\Exercise38\bin\Debug\net6.0\Exercise38.deps.json
+D:\Репозитории\HOMEWWORK\Exercise38\bin\Debug\net6.0\Exercise38.runtimeconfig.json
+D:\Репозитории\HOMEWWORK\Exercise38\bin\Debug\net6.0\Exercise38.dll
+D:\Репозитории\HOMEWWORK\Exercise38\bin\Debug\net6.0\Exercise38.pdb
+D:\Репозитории\HOMEWWORK\Exercise38\obj\Debug\net6.0\Exercise38.dll
+D:\Репозитории\HOMEWWORK\Exercise38\obj\Debug\net6.0\refint\Exercise38.dll
+D:\Репозитории\HOMEWWORK\Exercise38\obj\Debug\net6.0\Exercise38.pdb
+D:\Репозитории\HOMEWWORK\Exercise38\obj\Debug\net6.0\Exercise38.genruntimeconfig.cache
+D:\Репозитории\HOMEWWORK\Exercise38\obj\Debug\net6.0\ref\Exercise38.dll

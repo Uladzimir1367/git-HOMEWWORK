@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # git-HOMEWWORK
 HOMEWWORK
 
@@ -5,3 +6,6 @@ HOMEWWORK
 Подключили удалённый репозиторий!
 
 
+=======
+# git-HOMEWWORK
+>>>>>>> parent of 3b285e9 (Update README.md)

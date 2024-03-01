@@ -1,0 +1,15 @@
+D:\Репозитории\HOMEWWORK\Exsisise6\bin\Debug\net6.0\Exsisise6.exe
+D:\Репозитории\HOMEWWORK\Exsisise6\bin\Debug\net6.0\Exsisise6.deps.json
+D:\Репозитории\HOMEWWORK\Exsisise6\bin\Debug\net6.0\Exsisise6.runtimeconfig.json
+D:\Репозитории\HOMEWWORK\Exsisise6\bin\Debug\net6.0\Exsisise6.dll
+D:\Репозитории\HOMEWWORK\Exsisise6\bin\Debug\net6.0\Exsisise6.pdb
+D:\Репозитории\HOMEWWORK\Exsisise6\obj\Debug\net6.0\Exsisise6.csproj.AssemblyReference.cache
+D:\Репозитории\HOMEWWORK\Exsisise6\obj\Debug\net6.0\Exsisise6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Репозитории\HOMEWWORK\Exsisise6\obj\Debug\net6.0\Exsisise6.AssemblyInfoInputs.cache
+D:\Репозитории\HOMEWWORK\Exsisise6\obj\Debug\net6.0\Exsisise6.AssemblyInfo.cs
+D:\Репозитории\HOMEWWORK\Exsisise6\obj\Debug\net6.0\Exsisise6.csproj.CoreCompileInputs.cache
+D:\Репозитории\HOMEWWORK\Exsisise6\obj\Debug\net6.0\Exsisise6.dll
+D:\Репозитории\HOMEWWORK\Exsisise6\obj\Debug\net6.0\refint\Exsisise6.dll
+D:\Репозитории\HOMEWWORK\Exsisise6\obj\Debug\net6.0\Exsisise6.pdb
+D:\Репозитории\HOMEWWORK\Exsisise6\obj\Debug\net6.0\Exsisise6.genruntimeconfig.cache
+D:\Репозитории\HOMEWWORK\Exsisise6\obj\Debug\net6.0\ref\Exsisise6.dll

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Репозитории\\HOMEWWORK\\Exercise19\\Exercise19.csproj": {}
+    "D:\\Репозитории\\git-HOMEWWORK\\Exercise19\\Exercise19.csproj": {}
   },
   "projects": {
-    "D:\\Репозитории\\HOMEWWORK\\Exercise19\\Exercise19.csproj": {
+    "D:\\Репозитории\\git-HOMEWWORK\\Exercise19\\Exercise19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Репозитории\\HOMEWWORK\\Exercise19\\Exercise19.csproj",
+        "projectUniqueName": "D:\\Репозитории\\git-HOMEWWORK\\Exercise19\\Exercise19.csproj",
         "projectName": "Exercise19",
-        "projectPath": "D:\\Репозитории\\HOMEWWORK\\Exercise19\\Exercise19.csproj",
+        "projectPath": "D:\\Репозитории\\git-HOMEWWORK\\Exercise19\\Exercise19.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Репозитории\\HOMEWWORK\\Exercise19\\obj\\",
+        "outputPath": "D:\\Репозитории\\git-HOMEWWORK\\Exercise19\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
